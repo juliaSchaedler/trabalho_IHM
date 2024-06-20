@@ -1,6 +1,6 @@
 # trabalho_IHM
-Criação de site para gestão de resíduos para a disciplina de Interface Homem Máquina.
-Alunos: Crislley, Julia e William Dutra
+Criação de site para gestão de resíduos usando as heurísticas de Nielsen para a disciplina de Interface Homem Máquina.
+- Alunos: Crislley, Julia e William Dutra
 
 ## Descrição:
 - O site "Resíduo Zero" foca na gestão adequada de resíduos para proteger a saúde pública e o meio ambiente. Os principais pontos incluem:
