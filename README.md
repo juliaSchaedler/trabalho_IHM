@@ -12,6 +12,8 @@ Criação de site para gestão de resíduos usando as heurísticas de Nielsen pa
 
 - O trabalho pode ser encontrado e melhor analisado [aqui](https://replit.com/@JuliaSchaedler/TrabalhoIHM?v=1#index.html)
 ## Heurísticas de Nielsen:
+Abaixo estão todas as heurísticas de Nielsen e uma análise de como estão no site: 
+
 1. **Visibilidade do status do sistema:** O site informa claramente sobre suas seções e conteúdo.
 2. **Correspondência entre o sistema e o mundo real:** Usa linguagem simples e familiar relacionada a gestão de resíduos.
 3. **Controle e liberdade do usuário:** Navegação intuitiva.
